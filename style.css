@@ -25,13 +25,7 @@
     font-style: italic;
     color:#E5E7EB;
 }
-.navbar{
-    height: 70px;
-    overflow:visible;
-    position:fixed ;
-    top:0;
-    background-color: #1F2937;
-}
+
 .cards{
     transition: transform 0.3s ease;
 }
@@ -43,4 +37,12 @@
 .cnd{
     padding-inline: 2rem;
   
+}
+.navbar{
+    height: 70px;
+    overflow:hidden;
+    position:fixed ;
+    top:0;
+    background-color: #1F2937;
+    width:100%;
 }
