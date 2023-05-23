@@ -38,7 +38,7 @@
 .cards:hover{
     border: 1px solid lightseagreen;
     box-shadow: 5px 5px 5px lightseagreen;
-    transform: translateX(-10px)
+    
 }
 .cnd{
     padding-inline: 2rem;
